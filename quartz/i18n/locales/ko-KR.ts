@@ -36,7 +36,7 @@ export default {
       title: "탐색기",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "'Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.' — Richard Feynman",
     },
     graph: {
       title: "그래프 뷰",

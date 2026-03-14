@@ -1,8 +1,3 @@
----
-id: Ordering Properties of ℝ
-aliases: []
-tags: []
----
 # Ordering Properties of ℝ
 
 *Original Note: [[L02]]*
@@ -10,7 +5,7 @@ tags: []
 ## [[Positive Set and Order]]
 
 > [!def] Positive Set
-> Let $P\subseteq\mathbb{R}$, $P \neq \emptyset$, be the set of positive real numbers. It satisfies:
+> Let $P\subseteq\mathbb{R}$, $P\neq\varnothing$, be the set of positive real numbers. It satisfies:
 > 1. If $a,b\in P$, then $a+b\in P$.
 > 2. If $a,b\in P$, then $a\cdot b\in P$.
 > 3. Trichotomy: For any $a\in\mathbb{R}$, exactly one of $a\in P$, $a=0$, or $-a\in P$ holds.

@@ -36,7 +36,7 @@ export default {
       title: "Explorer",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "\"Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.\" — Richard Feynman\n",
     },
     graph: {
       title: "Graph View",
